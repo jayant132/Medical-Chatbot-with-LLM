@@ -4,6 +4,7 @@ langchain-openai
 langchain-pinecone
 flask
 sentence-transformers
+langchain-groq
 pypdf
 python-dotenv
 ipykernel
